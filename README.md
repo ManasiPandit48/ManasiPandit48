@@ -73,7 +73,3 @@
   </a>
 </p>
 
-## GitHub Stats
-
-![Manasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasipandit48&show_icons=true&theme=radical)
-
