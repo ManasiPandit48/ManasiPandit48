@@ -12,6 +12,7 @@
 
 - **LinkedIn**: [Manasi Pandit](https://www.linkedin.com/in/manasi-pandit-4657b72a0)
 - **GitHub**: [manasipandit48](https://github.com/manasipandit48)
+- **HuggingFace** : [ManasiPandit](https://huggingface.co/ManasiPandit)
 
 
 ## Languages and Tools
